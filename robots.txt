@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://MattPayne.org//sitemap.xml
