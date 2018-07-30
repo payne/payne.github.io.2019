@@ -9,8 +9,24 @@
 		<atom:link href="https://payne.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>My New Post</title>
+				<link>https://payne.github.io//my-new-post/</link>
+				<pubDate>Sun, 29 Jul 2018 19:55:00 -0500</pubDate>
+				<description>&lt;p&gt;this is a demo.&lt;/p&gt;
+
+&lt;p&gt;Bacon is in the oven.&lt;/p&gt;
+
+&lt;p&gt;The house smells wonderful.&lt;/p&gt;
+
+&lt;p&gt;I wonder about OAuth.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://payne.github.io//my-new-post/</guid>
+			</item>
+		
+			<item>
 				<title>Trying out this new theme.</title>
-				<link>https://payne.github.io//design/hello/</link>
+				<link>https://payne.github.io//demo/hello/</link>
 				<pubDate>Sun, 29 Jul 2018 00:00:00 -0500</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
@@ -43,7 +59,7 @@
 &lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://payne.github.io//design/hello/</guid>
+				<guid isPermaLink="true">https://payne.github.io//demo/hello/</guid>
 			</item>
 		
 			<item>
@@ -754,51 +770,6 @@ image:
 
 </description>
 				<guid isPermaLink="true">https://payne.github.io//design/header-image-color/</guid>
-			</item>
-		
-			<item>
-				<title>Header with a Full-Width-Image</title>
-				<link>https://payne.github.io//design/header-full-width-image/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter your image.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;https://payne.github.io//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://payne.github.io//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://payne.github.io//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://payne.github.io//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://payne.github.io//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://payne.github.io//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://payne.github.io//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">https://payne.github.io//design/header-full-width-image/</guid>
 			</item>
 		
 	</channel>
