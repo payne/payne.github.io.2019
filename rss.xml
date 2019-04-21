@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matt Payne . org]]></title><description><![CDATA[Simple blog.]]></description><link>http://MattPayne.org/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Apr 2019 03:08:46 GMT</lastBuildDate><item><title><![CDATA[Deploy Dynamic Website in Minutes by FreeCodeCamp.com]]></title><description><![CDATA[The video on how to  “Deploy Dynamic Website in Minutes” 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matt Payne . org]]></title><description><![CDATA[Simple blog.]]></description><link>http://MattPayne.org/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Apr 2019 21:04:17 GMT</lastBuildDate><item><title><![CDATA[Fred's ImageMagick TextEffect Utility]]></title><description><![CDATA[Thanks, Fred!  I really like your 
+ texteffect 
+utility. Now to try the generated images on on the 
+ Vefaii clock]]></description><link>http://MattPayne.org//imagemagick-texteffect/</link><guid isPermaLink="false">http://MattPayne.org//imagemagick-texteffect/</guid><pubDate>Sun, 21 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Thanks, Fred!  I really like your
+&lt;a href=&quot;http://www.fmwconcepts.com/imagemagick/texteffect/index.php&quot;&gt;texteffect&lt;/a&gt;
+utility.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;for f in &amp;#39;Breakfast&amp;#39; &amp;#39;Lunch&amp;#39; &amp;#39;Dinner&amp;#39;; do ./texteffect -t $f  -s plain -e normal -f Arial -p 48 -c royalblue -b white -S 1024x768 $f.png; done&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ls -l *.png&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;-rwxrwxrwx 1 mpayne mpayne 39547 Apr 21 15:55 Breakfast.png
+-rwxrwxrwx 1 mpayne mpayne 27169 Apr 21 15:55 Dinner.png
+-rwxrwxrwx 1 mpayne mpayne 26342 Apr 21 15:55 Lunch.png&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;file *.png&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Breakfast.png: PNG image data, 1014 x 190, 16-bit/color RGB, non-interlaced
+Dinner.png:    PNG image data, 994 x 256, 16-bit/color RGB, non-interlaced
+Lunch.png:     PNG image data, 985 x 277, 16-bit/color RGB, non-interlaced&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now to try the generated images on on the
+&lt;a href=&quot;https://smile.amazon.com/Calendar-Reminder-Dementia-Sufferers-Alzheimers/dp/B07J47XP34/ref=sr_1_fkmrnull_3?crid=1KY4F7LNEWODG&amp;#x26;keywords=vefaii+dementia+clock&amp;#x26;qid=1555879600&amp;#x26;s=gateway&amp;#x26;sprefix=Vefaii+clock%2Caps%2C177&amp;#x26;sr=8-3-fkmrnull&quot;&gt;Vefaii clock&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Deploy Dynamic Website in Minutes by FreeCodeCamp.com]]></title><description><![CDATA[The video on how to  “Deploy Dynamic Website in Minutes” 
 by  FreeCodeCamp.com  is AMAZING!]]></description><link>http://MattPayne.org//fcc-deploy-websites/</link><guid isPermaLink="false">http://MattPayne.org//fcc-deploy-websites/</guid><pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The video on how to &lt;a href=&quot;https://www.youtube.com/watch?v=4AXDKWuY9QM&quot;&gt;“Deploy Dynamic Website in Minutes”&lt;/a&gt;
 by &lt;a href=&quot;http://FreeCodeCamp.com&quot;&gt;FreeCodeCamp.com&lt;/a&gt; is AMAZING!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ffmpeg in Scotch Box]]></title><description><![CDATA[“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.” But…]]></description><link>http://MattPayne.org//scotch-box-ffmpeg/markdown/</link><guid isPermaLink="false">http://MattPayne.org//scotch-box-ffmpeg/markdown/</guid><pubDate>Sat, 24 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://box.scotch.io/&quot;&gt;“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;But it doesn’t come with &lt;a href=&quot;https://ffmpeg.org/&quot;&gt;ffmpeg&lt;/a&gt;.   While working small project taking the sound from one video and “pasting” it onto a video that just shows the presenting monitor,
