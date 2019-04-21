@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matt Payne . org]]></title><description><![CDATA[Simple blog.]]></description><link>http://MattPayne.org/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Apr 2019 02:52:55 GMT</lastBuildDate><item><title><![CDATA[Deploy Dynamic Website in Minutes by FreeCodeCamp.com]]></title><description><![CDATA[The video on how to  “Deploy Dynamic Website in Minutes” 
+by  FreeCodeCamp.com  is AMAZING!]]></description><link>http://MattPayne.org//fcc-deploy-websites/</link><guid isPermaLink="false">http://MattPayne.org//fcc-deploy-websites/</guid><pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The video on how to &lt;a href=&quot;https://www.youtube.com/watch?v=4AXDKWuY9QM&quot;&gt;“Deploy Dynamic Website in Minutes”&lt;/a&gt;
+by &lt;a href=&quot;http://FreeCodeCamp.com&quot;&gt;FreeCodeCamp.com&lt;/a&gt; is AMAZING!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ffmpeg in Scotch Box]]></title><description><![CDATA[“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.” But…]]></description><link>http://MattPayne.org//scotch-box-ffmpeg/markdown/</link><guid isPermaLink="false">http://MattPayne.org//scotch-box-ffmpeg/markdown/</guid><pubDate>Sat, 24 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://box.scotch.io/&quot;&gt;“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;But it doesn’t come with &lt;a href=&quot;https://ffmpeg.org/&quot;&gt;ffmpeg&lt;/a&gt;.   While working small project taking the sound from one video and “pasting” it onto a video that just shows the presenting monitor,
+&lt;a href=&quot;http://stackoverflow.com/questions/12938581/ffmpeg-mux-video-and-audio-from-another-video-mapping-issue&quot;&gt;stack overflow said&lt;/a&gt;
+to do this:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;ffmpeg -i presentation_monitor_no_sound.mp4 -i room_video_and_audio.mp4 -c copy -map 0:0 -map 1:1 -shortest output.mp4&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;and it worked great!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/questions/12938581/ffmpeg-mux-video-and-audio-from-another-video-mapping-issue&quot;&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 317px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100.3154574132492%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsSAAALEgHS3X78AAADv0lEQVQ4y3WR2W/iVhTG/Yf0pU+V2ulD0/+p+1Olqpqo6iIx7bRpmlad6URNAmEnhIQMCQSDbXZjG28YY9ZAIDghCUzCZlZDL6FCU2l6Hq6O7nd+5/uuLjSbzW7u24FSHc3XkNwFVpADxUskV0XytVi5rvQHawH+aw+16iZWPdQ3MLPqIUEPboTaDQTg21YnennvIAVziHJx+ZNk0RwknUyGku+Ufn89Jn3uCH6kdX5hQ750xT4zez/WH3/lZVLy7QPc7iLiGcqmUC6NsiLKiRgv+ZlUtHChDMcbGLNxGnkOx57BsT+9kWe+2F9wVOOO8v/CHQXGEwd7Np12Z9++ZzYZDfrdQ8d+NF3ojtVNlHQfuwzanaMDh91qMRn0x3bb9gnCyI05LDfvPBECCEaDwWa1WC1mw+6uY98ekwrdkbqJkS+PnPs2q81scjocNovl0GLUerA5rE7GtcYrfzLrJxIIxfkJBqFYlOJAlkjuXBmNf0fpF25M64v8fRrY8YW3fWGdN/j0JMQDeNjvX7c6ZLGayuQIlufSmUQyRQtiMpOly3K7P9yKCtGk5MfJKJcKUCxC0iQvmPEkfXEDDRTlptPjiudMHA8HAyQewyPhAIpwdCJZubpXBiZCzIopGo+yZJyniHgkLNHECcVTlTo0GQ2v2108V+LTErBlBJFNiXGaZgSBLFZaivI8kAgyHM4LGEnHeBEhaJzhtcFEtFCFhoNBbzDMXjUK9Wa+3gRnsdEt3Y3zjUHpbjSeTMOlpi/fQItNrHDtl8potopmK970eVG+hnq93mxZ0yk4hs3sqHo6vURVGRle+NUrbFYPTGvwuCEuZ0CNx2Oo3+9PJpOHy+lUnQDljn56qX87s/XoTPde1fh+Wf9IAv3WW6/wx0BV1ZEKBufTU0hVVWA+Xeybzrd0kn/cWt8t6lcqpg9ky4psXSnqP7w0vtOhNcuZ2XyLCi0CKIoy938QusnfWNe3DGZi0R0a2QYnGzAxL79rEJqHgJOFE7CElmsGg0Ff6amzWcanObLrzAeIweq0O2Gj7Ui/5/W5DLfET3NYnSzmgR80e62AAOB6/GfMsQZ7DmGXGfHs+Y4tsPsgfLR+G3+yhBdJ/wMD5SH2Rsn9yXn4l0pIcx7UVENPKpG1kvvTNr2A528cjUagfwPcYn8tC3A6W5bSYi6XS6dFKXuWY+Gc7wdgqvS6i995M9xm189SIYIvMXxGkEpMMkunyhkuJHm/X8b+X7jFrdewx3VWV6dfXCU26/Qm6OXgapv+8fWvAvUPa1flTjXEIXoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;title&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e5365059b6758b9f43bb3241aef7fb2f/2970d/ffmpeg_diagram_2016_09_24.png&quot;
+        srcset=&quot;/static/e5365059b6758b9f43bb3241aef7fb2f/cf440/ffmpeg_diagram_2016_09_24.png 148w,
+/static/e5365059b6758b9f43bb3241aef7fb2f/d2d38/ffmpeg_diagram_2016_09_24.png 295w,
+/static/e5365059b6758b9f43bb3241aef7fb2f/2970d/ffmpeg_diagram_2016_09_24.png 317w&quot;
+        sizes=&quot;(max-width: 317px) 100vw, 317px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+Scotch Box comes with a lot of great stuff, but no ffmpeg.   Since Scotch Box is running Ubuntu 14.04 LTS (Trusty Tahr).&lt;br&gt;
+It took a few minutes to install ffmpeg.  Here’s a note to my future self on google helped me discover how to do it.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;apt-get install ffmpeg&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;this failed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;cat /etc/issue&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;this shows that it’s Ubuntu 14.04.   This allowed for googling that pointed to:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;add-apt-repository ppa:mc3man/trusty-media&lt;/li&gt;
+&lt;li&gt;apt-get update&lt;/li&gt;
+&lt;li&gt;echo $?&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;apt-get install ffmpeg&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Things worked this time :-)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item></channel></rss>
