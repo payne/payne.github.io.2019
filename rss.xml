@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matt Payne . org]]></title><description><![CDATA[Simple blog.]]></description><link>http://MattPayne.org/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Apr 2019 02:52:55 GMT</lastBuildDate><item><title><![CDATA[Deploy Dynamic Website in Minutes by FreeCodeCamp.com]]></title><description><![CDATA[The video on how to  “Deploy Dynamic Website in Minutes” 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matt Payne . org]]></title><description><![CDATA[Simple blog.]]></description><link>http://MattPayne.org/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Apr 2019 03:08:46 GMT</lastBuildDate><item><title><![CDATA[Deploy Dynamic Website in Minutes by FreeCodeCamp.com]]></title><description><![CDATA[The video on how to  “Deploy Dynamic Website in Minutes” 
 by  FreeCodeCamp.com  is AMAZING!]]></description><link>http://MattPayne.org//fcc-deploy-websites/</link><guid isPermaLink="false">http://MattPayne.org//fcc-deploy-websites/</guid><pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The video on how to &lt;a href=&quot;https://www.youtube.com/watch?v=4AXDKWuY9QM&quot;&gt;“Deploy Dynamic Website in Minutes”&lt;/a&gt;
 by &lt;a href=&quot;http://FreeCodeCamp.com&quot;&gt;FreeCodeCamp.com&lt;/a&gt; is AMAZING!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ffmpeg in Scotch Box]]></title><description><![CDATA[“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.” But…]]></description><link>http://MattPayne.org//scotch-box-ffmpeg/markdown/</link><guid isPermaLink="false">http://MattPayne.org//scotch-box-ffmpeg/markdown/</guid><pubDate>Sat, 24 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://box.scotch.io/&quot;&gt;“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;But it doesn’t come with &lt;a href=&quot;https://ffmpeg.org/&quot;&gt;ffmpeg&lt;/a&gt;.   While working small project taking the sound from one video and “pasting” it onto a video that just shows the presenting monitor,
@@ -53,4 +53,27 @@ It took a few minutes to install ffmpeg.  Here’s a note to my future self on g
 &lt;li&gt;Things worked this time :-)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item></channel></rss>
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Free Learning?]]></title><description><![CDATA[I too am a big fan of both 
+ FreeCodeCamp.com  and 
+ Lynda.com . The  Computer Science and Software Engineering Theory with Briana  are…]]></description><link>http://MattPayne.org//free-learning/</link><guid isPermaLink="false">http://MattPayne.org//free-learning/</guid><pubDate>Sat, 10 Sep 2016 15:17:20 GMT</pubDate><content:encoded>&lt;p&gt;I too am a big fan of both
+&lt;a href=&quot;https://www.freecodecamp.com&quot;&gt;FreeCodeCamp.com&lt;/a&gt; and
+&lt;a href=&quot;https://www.lynda.com&quot;&gt;Lynda.com&lt;/a&gt;.&lt;br&gt;
+The &lt;a href=&quot;https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy&quot;&gt;Computer Science and Software Engineering Theory with Briana&lt;/a&gt; are fantastic!   I like that they are small and well labeled.  They can be watched in order or you can just jump to what you want to learn.&lt;/p&gt;
+&lt;h2&gt;Other free learning resources I’ve seen include:&lt;/h2&gt;
+&lt;p&gt;I’m mostly interested in software development.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qZKvZzRynLE&quot;&gt;How to teach yourself code&lt;/a&gt; is a 17 minute interview that contains some wonderful advice.  I have put my notes from this video in a post about &lt;a href=&quot;http://mattpayne.org/learning/2016/09/10/teach-yourself-code.html&quot;&gt;teach yourself code&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Web applications&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://codingbat.com/&quot;&gt;CodingBat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.codewars.com/&quot;&gt;CodeWars&lt;/a&gt; horrible name, nice website.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.codingame.com/home&quot;&gt;CodinGame.com&lt;/a&gt; much better name!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Blogs and videos&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.leveluplunch.com/&quot;&gt;Level Up Lunch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.baeldung.com/category/weekly-review/&quot;&gt;Java Web Weekly Review from Baeldung&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Software to download&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://exercism.io/&quot;&gt;exercism.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Gradle Intro]]></title><description><![CDATA[Slides for Gradle Introduction  are not the best talk I’ve ever given.  There are a few handy things in there…]]></description><link>http://MattPayne.org//gradle-intro/</link><guid isPermaLink="false">http://MattPayne.org//gradle-intro/</guid><pubDate>Wed, 23 Oct 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;http://payne.github.io/GradleIntro2013&quot;&gt;Slides for Gradle Introduction&lt;/a&gt; are not the best talk I’ve ever given.  There are a few handy things in there…&lt;/p&gt;</content:encoded></item></channel></rss>
