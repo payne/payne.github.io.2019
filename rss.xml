@@ -1,56 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matt Payne . org]]></title><description><![CDATA[Simple blog.]]></description><link>http://MattPayne.org/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Apr 2019 21:04:17 GMT</lastBuildDate><item><title><![CDATA[Fred's ImageMagick TextEffect Utility]]></title><description><![CDATA[Thanks, Fred!  I really like your 
- texteffect 
-utility. Now to try the generated images on on the 
- Vefaii clock]]></description><link>http://MattPayne.org//imagemagick-texteffect/</link><guid isPermaLink="false">http://MattPayne.org//imagemagick-texteffect/</guid><pubDate>Sun, 21 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Thanks, Fred!  I really like your
-&lt;a href=&quot;http://www.fmwconcepts.com/imagemagick/texteffect/index.php&quot;&gt;texteffect&lt;/a&gt;
-utility.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;for f in &amp;#39;Breakfast&amp;#39; &amp;#39;Lunch&amp;#39; &amp;#39;Dinner&amp;#39;; do ./texteffect -t $f  -s plain -e normal -f Arial -p 48 -c royalblue -b white -S 1024x768 $f.png; done&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ls -l *.png&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;-rwxrwxrwx 1 mpayne mpayne 39547 Apr 21 15:55 Breakfast.png
--rwxrwxrwx 1 mpayne mpayne 27169 Apr 21 15:55 Dinner.png
--rwxrwxrwx 1 mpayne mpayne 26342 Apr 21 15:55 Lunch.png&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;file *.png&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Breakfast.png: PNG image data, 1014 x 190, 16-bit/color RGB, non-interlaced
-Dinner.png:    PNG image data, 994 x 256, 16-bit/color RGB, non-interlaced
-Lunch.png:     PNG image data, 985 x 277, 16-bit/color RGB, non-interlaced&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Now to try the generated images on on the
-&lt;a href=&quot;https://smile.amazon.com/Calendar-Reminder-Dementia-Sufferers-Alzheimers/dp/B07J47XP34/ref=sr_1_fkmrnull_3?crid=1KY4F7LNEWODG&amp;#x26;keywords=vefaii+dementia+clock&amp;#x26;qid=1555879600&amp;#x26;s=gateway&amp;#x26;sprefix=Vefaii+clock%2Caps%2C177&amp;#x26;sr=8-3-fkmrnull&quot;&gt;Vefaii clock&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Deploy Dynamic Website in Minutes by FreeCodeCamp.com]]></title><description><![CDATA[The video on how to  “Deploy Dynamic Website in Minutes” 
-by  FreeCodeCamp.com  is AMAZING!]]></description><link>http://MattPayne.org//fcc-deploy-websites/</link><guid isPermaLink="false">http://MattPayne.org//fcc-deploy-websites/</guid><pubDate>Sun, 25 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The video on how to &lt;a href=&quot;https://www.youtube.com/watch?v=4AXDKWuY9QM&quot;&gt;“Deploy Dynamic Website in Minutes”&lt;/a&gt;
-by &lt;a href=&quot;http://FreeCodeCamp.com&quot;&gt;FreeCodeCamp.com&lt;/a&gt; is AMAZING!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ffmpeg in Scotch Box]]></title><description><![CDATA[“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.” But…]]></description><link>http://MattPayne.org//scotch-box-ffmpeg/markdown/</link><guid isPermaLink="false">http://MattPayne.org//scotch-box-ffmpeg/markdown/</guid><pubDate>Sat, 24 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://box.scotch.io/&quot;&gt;“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.”&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Matt Payne]]></title><description><![CDATA[Computer Programmer living in Omaha, NE]]></description><link>http://MattPayne.org</link><generator>RSS for Node</generator><lastBuildDate>Fri, 03 May 2019 22:44:20 GMT</lastBuildDate><item><title><![CDATA[ffmpeg in Scotch Box]]></title><description><![CDATA[A few notes on using ffmpeg to combine videos]]></description><link>http://MattPayne.org/posts/ffmpeg-in-scotch-box/</link><guid isPermaLink="false">http://MattPayne.org/posts/ffmpeg-in-scotch-box/</guid><pubDate>Sat, 24 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://box.scotch.io/&quot;&gt;“Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;But it doesn’t come with &lt;a href=&quot;https://ffmpeg.org/&quot;&gt;ffmpeg&lt;/a&gt;.   While working small project taking the sound from one video and “pasting” it onto a video that just shows the presenting monitor,
 &lt;a href=&quot;http://stackoverflow.com/questions/12938581/ffmpeg-mux-video-and-audio-from-another-video-mapping-issue&quot;&gt;stack overflow said&lt;/a&gt;
 to do this:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;ffmpeg -i presentation_monitor_no_sound.mp4 -i room_video_and_audio.mp4 -c copy -map 0:0 -map 1:1 -shortest output.mp4&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;and it worked great!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/questions/12938581/ffmpeg-mux-video-and-audio-from-another-video-mapping-issue&quot;&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 317px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100.3154574132492%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsSAAALEgHS3X78AAADv0lEQVQ4y3WR2W/iVhTG/Yf0pU+V2ulD0/+p+1Olqpqo6iIx7bRpmlad6URNAmEnhIQMCQSDbXZjG28YY9ZAIDghCUzCZlZDL6FCU2l6Hq6O7nd+5/uuLjSbzW7u24FSHc3XkNwFVpADxUskV0XytVi5rvQHawH+aw+16iZWPdQ3MLPqIUEPboTaDQTg21YnennvIAVziHJx+ZNk0RwknUyGku+Ufn89Jn3uCH6kdX5hQ750xT4zez/WH3/lZVLy7QPc7iLiGcqmUC6NsiLKiRgv+ZlUtHChDMcbGLNxGnkOx57BsT+9kWe+2F9wVOOO8v/CHQXGEwd7Np12Z9++ZzYZDfrdQ8d+NF3ojtVNlHQfuwzanaMDh91qMRn0x3bb9gnCyI05LDfvPBECCEaDwWa1WC1mw+6uY98ekwrdkbqJkS+PnPs2q81scjocNovl0GLUerA5rE7GtcYrfzLrJxIIxfkJBqFYlOJAlkjuXBmNf0fpF25M64v8fRrY8YW3fWGdN/j0JMQDeNjvX7c6ZLGayuQIlufSmUQyRQtiMpOly3K7P9yKCtGk5MfJKJcKUCxC0iQvmPEkfXEDDRTlptPjiudMHA8HAyQewyPhAIpwdCJZubpXBiZCzIopGo+yZJyniHgkLNHECcVTlTo0GQ2v2108V+LTErBlBJFNiXGaZgSBLFZaivI8kAgyHM4LGEnHeBEhaJzhtcFEtFCFhoNBbzDMXjUK9Wa+3gRnsdEt3Y3zjUHpbjSeTMOlpi/fQItNrHDtl8potopmK970eVG+hnq93mxZ0yk4hs3sqHo6vURVGRle+NUrbFYPTGvwuCEuZ0CNx2Oo3+9PJpOHy+lUnQDljn56qX87s/XoTPde1fh+Wf9IAv3WW6/wx0BV1ZEKBufTU0hVVWA+Xeybzrd0kn/cWt8t6lcqpg9ky4psXSnqP7w0vtOhNcuZ2XyLCi0CKIoy938QusnfWNe3DGZi0R0a2QYnGzAxL79rEJqHgJOFE7CElmsGg0Ff6amzWcanObLrzAeIweq0O2Gj7Ui/5/W5DLfET3NYnSzmgR80e62AAOB6/GfMsQZ7DmGXGfHs+Y4tsPsgfLR+G3+yhBdJ/wMD5SH2Rsn9yXn4l0pIcx7UVENPKpG1kvvTNr2A528cjUagfwPcYn8tC3A6W5bSYi6XS6dFKXuWY+Gc7wdgqvS6i995M9xm189SIYIvMXxGkEpMMkunyhkuJHm/X8b+X7jFrdewx3VWV6dfXCU26/Qm6OXgapv+8fWvAvUPa1flTjXEIXoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;title&quot;
-        title=&quot;&quot;
-        src=&quot;/static/e5365059b6758b9f43bb3241aef7fb2f/2970d/ffmpeg_diagram_2016_09_24.png&quot;
-        srcset=&quot;/static/e5365059b6758b9f43bb3241aef7fb2f/cf440/ffmpeg_diagram_2016_09_24.png 148w,
-/static/e5365059b6758b9f43bb3241aef7fb2f/d2d38/ffmpeg_diagram_2016_09_24.png 295w,
-/static/e5365059b6758b9f43bb3241aef7fb2f/2970d/ffmpeg_diagram_2016_09_24.png 317w&quot;
-        sizes=&quot;(max-width: 317px) 100vw, 317px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  &lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/questions/12938581/ffmpeg-mux-video-and-audio-from-another-video-mapping-issue&quot;&gt;&lt;img src=&quot;/media/ffmpeg_diagram_2016_09_24.png&quot; alt=&quot;title&quot;&gt;&lt;/a&gt;
 Scotch Box comes with a lot of great stuff, but no ffmpeg.   Since Scotch Box is running Ubuntu 14.04 LTS (Trusty Tahr).&lt;br&gt;
 It took a few minutes to install ffmpeg.  Here’s a note to my future self on google helped me discover how to do it.&lt;/p&gt;
 &lt;ol&gt;
@@ -75,27 +29,4 @@ It took a few minutes to install ffmpeg.  Here’s a note to my future self on g
 &lt;li&gt;Things worked this time :-)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Free Learning?]]></title><description><![CDATA[I too am a big fan of both 
- FreeCodeCamp.com  and 
- Lynda.com . The  Computer Science and Software Engineering Theory with Briana  are…]]></description><link>http://MattPayne.org//free-learning/</link><guid isPermaLink="false">http://MattPayne.org//free-learning/</guid><pubDate>Sat, 10 Sep 2016 15:17:20 GMT</pubDate><content:encoded>&lt;p&gt;I too am a big fan of both
-&lt;a href=&quot;https://www.freecodecamp.com&quot;&gt;FreeCodeCamp.com&lt;/a&gt; and
-&lt;a href=&quot;https://www.lynda.com&quot;&gt;Lynda.com&lt;/a&gt;.&lt;br&gt;
-The &lt;a href=&quot;https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy&quot;&gt;Computer Science and Software Engineering Theory with Briana&lt;/a&gt; are fantastic!   I like that they are small and well labeled.  They can be watched in order or you can just jump to what you want to learn.&lt;/p&gt;
-&lt;h2&gt;Other free learning resources I’ve seen include:&lt;/h2&gt;
-&lt;p&gt;I’m mostly interested in software development.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qZKvZzRynLE&quot;&gt;How to teach yourself code&lt;/a&gt; is a 17 minute interview that contains some wonderful advice.  I have put my notes from this video in a post about &lt;a href=&quot;http://mattpayne.org/learning/2016/09/10/teach-yourself-code.html&quot;&gt;teach yourself code&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Web applications&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://codingbat.com/&quot;&gt;CodingBat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.codewars.com/&quot;&gt;CodeWars&lt;/a&gt; horrible name, nice website.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.codingame.com/home&quot;&gt;CodinGame.com&lt;/a&gt; much better name!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Blogs and videos&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.leveluplunch.com/&quot;&gt;Level Up Lunch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.baeldung.com/category/weekly-review/&quot;&gt;Java Web Weekly Review from Baeldung&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Software to download&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://exercism.io/&quot;&gt;exercism.io&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Gradle Intro]]></title><description><![CDATA[Slides for Gradle Introduction  are not the best talk I’ve ever given.  There are a few handy things in there…]]></description><link>http://MattPayne.org//gradle-intro/</link><guid isPermaLink="false">http://MattPayne.org//gradle-intro/</guid><pubDate>Wed, 23 Oct 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;http://payne.github.io/GradleIntro2013&quot;&gt;Slides for Gradle Introduction&lt;/a&gt; are not the best talk I’ve ever given.  There are a few handy things in there…&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;/ol&gt;</content:encoded></item></channel></rss>
