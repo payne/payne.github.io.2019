@@ -23,12 +23,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Computer programmer living in Omaha, NE',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      twitter: 'MattPayneOrg',
+      github: 'payne',
+      rss: '#'
     }
   }
 };
