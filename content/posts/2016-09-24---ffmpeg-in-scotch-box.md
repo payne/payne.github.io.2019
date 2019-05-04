@@ -7,7 +7,8 @@ slug: "/posts/ffmpeg-in-scotch-box/"
 tags:
   - "ffmeg"
   - "videos"
-category: linux video
+  - "linux"
+category: linux 
 description: "A few notes on using ffmpeg to combine videos"
 ---
 
