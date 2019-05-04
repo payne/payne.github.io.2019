@@ -1,6 +1,6 @@
 ---
 title:  "Free Learning?"
-date:   2016-09-10 10:17:20 -0500
+date:   2016-09-10
 template: "post"
 draft: false
 slug: "/posts/free-learning-notes/"
