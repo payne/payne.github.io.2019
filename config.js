@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'Computer Programmer living in Omaha, NE',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 100,
   googleAnalyticsId: '',
   menu: [
     {
