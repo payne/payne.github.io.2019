@@ -1,11 +1,18 @@
 ---
-layout: post
 title: "Guava Cache with Removal Listener"
-categories: java
+date: "2017-03-01"
+template: "post"
+draft: false
+slug: "/posts/Guava-Cache/"
+tags:
+  - "tools"
+  - "java"
+category: java 
+description: "Yet another reason to use more Guava"
 ---
 
 
-```
+```java
 package learning;
 
 import com.google.common.base.Ticker;
@@ -76,4 +83,5 @@ public class CacheTests {
 
 }
 ```
+
 
