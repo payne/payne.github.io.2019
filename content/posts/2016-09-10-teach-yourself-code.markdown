@@ -1,8 +1,14 @@
 ---
-layout: post
 title:  "Teach Yourself Code"
-date:   2016-09-10 10:17:20 -0500
-categories: learning 
+date: "2016-09-10"
+template: "post"
+draft: false
+slug: "/posts/Teach-Yourself-Code/"
+tags:
+  - "programming"
+  - "learning"
+category: programming 
+description: "Great advice from FreeCodeCamp.com"
 ---
 
 If you have the money, buy some education!  It will accelerate your learning.
@@ -31,4 +37,5 @@ If you have the money, buy some education!  It will accelerate your learning.
     1. Don’t get hung up on tools.   This is a common way to procrastinate that doesn’t feel like procrastinating.   
 4. Don’t worry what to build.  Focus on how to build it.
 5. Contribute to open source (Legacy Code).
+
 
