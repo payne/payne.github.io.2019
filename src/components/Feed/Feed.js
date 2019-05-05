@@ -5,9 +5,13 @@ import styles from './Feed.module.scss';
 
 const Feed = ({ edges }) => (
   <div className={styles['feed']}>
+   <ol>
     {edges.map((edge) => (
+    <li>
       <div className={styles['feed__item']} key={edge.node.fields.slug}>
-        <div className={styles['feed__item-meta']}>
+        <b className={styles['feed__item-title']}>
+          <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
+          <span className={styles['feed__item-meta-divider']} />
           <time className={styles['feed__item-meta-time']} dateTime={moment(edge.node.frontmatter.date).format('MMMM D, YYYY')}>
             {moment(edge.node.frontmatter.date).format('MMMM YYYY')}
           </time>
@@ -15,14 +19,11 @@ const Feed = ({ edges }) => (
           <span className={styles['feed__item-meta-category']}>
             <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-category-link']}>{edge.node.frontmatter.category}</Link>
           </span>
-        </div>
-        <h2 className={styles['feed__item-title']}>
-          <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
-        </h2>
-        <p className={styles['feed__item-description']}>{edge.node.frontmatter.description}</p>
-        <Link className={styles['feed__item-readmore']} to={edge.node.fields.slug}>Read</Link>
+        </b>
       </div>
+   </li>
     ))}
+  </ol>
   </div>
 );
 

@@ -3,17 +3,17 @@
 
 .feed {
   &__item {
-    @include margin-bottom(1.25);
+    @include margin-bottom(0.25);
 
     &:last-child {
-      @include margin-bottom(.5);
+      @include margin-bottom(.0);
     }
 
     &-title {
-      font-size: $typographic-base-font-size * 1.6875;
-      @include line-height(1.5);
+      font-size: $typographic-base-font-size * 1.0;
+      @include line-height(1.0);
       @include margin-top(0);
-      @include margin-bottom(.5);
+      @include margin-bottom(.0);
 
       &-link {
         color: $color-base;
