@@ -1,15 +1,17 @@
 ---
-layout: post
 title: "cartesianProduct(a, b)"
-categories: java
-image: /assets/images/placeholder-15.jpg
-author: Matt Payne
+date: "2017-03-03"
+template: "post"
+draft: false
+slug: "/posts/CartesianProduct/"
 tags:
-  - Squid
+  - "java"
+category: java 
+description: "Cartesian Products easily generated :-)"
 ---
 
 
-```
+```java
 package learning;
 
 import com.google.common.collect.Sets;
