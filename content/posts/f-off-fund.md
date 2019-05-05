@@ -20,4 +20,4 @@ I think it is important to talk with each other about money.
 
 [Story posted at Huffington Post](http://www.huffingtonpost.com/paulette-perhach/a-story-of-a-fuck-off-fund_b_9065308.html)
 
-2016-09-25-Money-Choose-Your-Own-Adventures.md
+
