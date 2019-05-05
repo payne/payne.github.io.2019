@@ -5,7 +5,7 @@ import styles from './Feed.module.scss';
 
 const Feed = ({ edges }) => (
   <div className={styles['feed']}>
-   <ol>
+   <ol reversed>
     {edges.map((edge) => (
     <li>
       <div className={styles['feed__item']} key={edge.node.fields.slug}>
