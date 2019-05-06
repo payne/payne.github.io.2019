@@ -17,8 +17,9 @@ Matt Payne stumbled upon computers the summer after seventh grade.  He’s spent
 
 ## Sharing
 Things I would like you to know include:
-1. My views on Money and money tools I like.   And the importance of a ["rainy day" fund](http://mattpayne.org/posts/f-off-fund/).
-2. Habits I strive to have and why.
-3. Books I like
+1. My views on [money and money tools I like](http://mattpayne.org/posts/money/).   And the importance of a ["rainy day" fund](http://mattpayne.org/posts/f-off-fund/).
+2. Habits I strive to have and why
+3. [Books](http://MattPayne.org/posts/books/) I like
+4. Tools I like
 
 
