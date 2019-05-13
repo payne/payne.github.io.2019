@@ -23,7 +23,7 @@ description: "Pointers to money interesting or useful money things"
 1. [YNAB - You Need a Budget](https://www.youneedabudget.com/) is a very handy utility.  It's crippled because there are no backups or change control.
 1. [PlainTextAccounting.org](https://plaintextaccounting.org/) intrests me, and I have not started practicing it, yet.
 
-## TFD's [20 Point Checklist for getting good with Money](https://www.youtube.com/watch?v=HeR8oQj7Va0&t=1104s)
+## [TFD's](https://thefinancialdiet.com/the-20-point-checklist-for-getting-good-with-money-in-your-20s/) [20 Point Checklist for getting good with Money](https://www.youtube.com/watch?v=HeR8oQj7Va0&t=1104s)
 
 I really like this video!   The title contains "in your 20s" but IMHO this qualifier is not needed because the list works for all adults.
 
