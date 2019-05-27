@@ -24,9 +24,11 @@ Things that are handy:
 1. https://learning.oreilly.com/home/
 
 
- the AWS Meetup's lab a while back.  It points to a nice blog post.
+In the Omaha AWS Meetup's lab a while back, a nice blog post was used as a lab.
 
-https://www.cloudshiftstrategies.com/flasklambdalab.html is the "punch-and-run" very simple lab from yesterday's AWS Meetup. It's easy to follow. It uses https://www.zappa.io/ to deploy a premade flask app: https://github.com/peterb154/flask_lambda_lab My simple instance is https://0khv79381f.execute-api.us-east-1.amazonaws.com/dev They did a nifty thing where they try and show how slow the lambda instances are: 
+https://www.cloudshiftstrategies.com/flasklambdalab.html is the "punch-and-run" very simple lab from yesterday's AWS Meetup. It's easy to follow. It uses https://www.zappa.io/ to deploy a premade flask app: https://github.com/peterb154/flask_lambda_lab 
+
+My simple instance is https://0khv79381f.execute-api.us-east-1.amazonaws.com/dev They did a nifty thing where they try and show how slow the lambda instances are: 
 https://github.com/peterb154/flask_lambda_lab/blob/lesson3/app/__init__.py#L16
 
 
