@@ -6,7 +6,7 @@ draft: false
 slug: "/posts/HerokuJava/"
 tags:
   - "cloud"
-  - "Java"
+  - "java"
 category: Java 
 description: "HeroKu.com is great!  e.g. It's free to get started.  No credit card needed."
 ---
