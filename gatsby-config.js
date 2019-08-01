@@ -14,6 +14,7 @@ module.exports = {
     author: siteConfig.author
   },
   plugins: [
+
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -115,6 +116,7 @@ module.exports = {
     },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
+    'gatsby-plugin-dark-mode',
     'gatsby-plugin-netlify',
     {
       resolve: 'gatsby-plugin-netlify-cms',

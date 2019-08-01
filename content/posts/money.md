@@ -52,3 +52,23 @@ comments.
 20. Consider working with a professional (certified financial planners, accountants)
 
 
+## Your Money or your life
+
+From https://yourmoneyoryourlife.com/book-summary/
+
+Ask yourself these questions:
+
+1. Do you have enough money?
+1. Are you spending enough time with family and friends?
+1. Do you come home from your job full of life?
+1. Do you have time to participate in things you believe are worthwhile?
+1. If you were laid off from your job, would you see it as an opportunity?
+1. Are you satisfied with the contribution you have made to the world?
+1. Are you at peace with money?
+1. Does your job reflect your values?
+1. Do you have enough savings to see you through six months of normal living expenses?
+1. Is your life whole? Do all the pieces — your job, your expenditures, your relationships, your values — fit together?
+
+## FI
+1. http://aymeric.gaurat.net/2011/free-financial-independence-spreadsheet/ 
+
