@@ -18,9 +18,18 @@ This post will hold things I've learned and things I'm trying to learn.... hopef
 
 ### Trying to learn
 1. How to track daily habits (eating, exercise, etc)
+    1. `task add Exercise due:today recure:daily +habit`
+    1. ` task context define monday +monday or +habit` # Current context should include tasks tagged with habit
 1. How to use these tools as a sort of electronic bullet journal
 1. How to use these tools to do regular retrospectives 
 
 ### Learned
 1. Excitement is easy because the tools seem so amazing!
+1. `task add Exercise due:today recure:daily +habit`
+1. ` task context define monday +monday or +habit`
+1. `task 34 done loaded shelfs` # Puts a note with the done
+1. `task 34 show` # Shows the note with a timestamp
+1. `task add Change Furnace Filter due:2020-01-25 recur:quarterly +home +habit project:chores` # no space after :
+
+
 
